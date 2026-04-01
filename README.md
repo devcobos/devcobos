@@ -10,6 +10,5 @@ const devcobos = {
   focus:      ["UI/UX", "Performance", "Accessibility"],
   stack:      ["Angular", "TypeScript", "JavaScript"],
   learning:   "Always something new 🚀",
-  available:  true,
 };
 ```
